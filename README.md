@@ -2,7 +2,7 @@
 
 An ambient, fluid clock screensaver for Windows 10/11. Aurora-like colors flow and blend behind a minimal clock, rendered in real time on your GPU at your monitor's full refresh rate.
 
-![Drift Clock](driftclock_hero.gif)
+https://github.com/user-attachments/assets/e4d3b3af-c0f1-48c3-a87d-3f995be0797f
 
 ## Themes
 
